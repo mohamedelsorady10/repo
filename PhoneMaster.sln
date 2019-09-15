@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.757
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PhoneMaster", "PhoneMaster\PhoneMaster.csproj", "{1AE82609-CE72-4CB5-A17B-BCB23A2EF3E2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1AE82609-CE72-4CB5-A17B-BCB23A2EF3E2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1AE82609-CE72-4CB5-A17B-BCB23A2EF3E2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1AE82609-CE72-4CB5-A17B-BCB23A2EF3E2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1AE82609-CE72-4CB5-A17B-BCB23A2EF3E2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5F7A6616-1F64-4FF6-B4AF-302B858F4BCA}
+	EndGlobalSection
+EndGlobal
